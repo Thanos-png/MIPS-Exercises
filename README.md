@@ -1,2 +1,2 @@
 # MIPS-Exercises
-## A repository that i store assignments of MIPS
+## A repository that i store assignments of MIPS Assembly language
